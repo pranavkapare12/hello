@@ -1,0 +1,13 @@
+#root {
+}
+.sel{
+  background-color: #ffffff;
+}
+
+.container{
+  color: #ffffff;
+  position: absolute;
+  margin-top: 1rem; 
+  margin-bottom: 1rem; 
+  width: 100%;
+}
